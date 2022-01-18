@@ -9,6 +9,6 @@ Plugin for Android Studio and IntellijIdea platform. It is a theme based on the 
 ### how to use manually
 - 1.- clone project
 - 2.- go to plugins intellij idea or android studio
-- 3.- install from disk find "Android Progress Bar.jar" into out/artifacts/Android_Progress_Bar_jar
+- 3.- install from disk find "Moto Sport Theme.jar" into out/artifacts/Moto_Sport_Theme_jar
 ### get from marketplace
 pending approval 
