@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2000-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file. -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="newClass.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="53.875"
+     inkscape:cx="8.0092807"
+     inkscape:cy="8.0092807"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     fill="#40B6E0"
+     fill-opacity=".6"
+     d="m 15,8 c 0,3.866 -3.134,7 -7,7 C 4.134,15 1,11.866 1,8 1,4.134 4.134,1 8,1 c 3.866,0 7,3.134 7,7"
+     id="path2"
+     style="fill:#00ff98;fill-opacity:0.84429067;fill-rule:evenodd" />
+  <path
+     fill="#231F20"
+     fill-opacity=".7"
+     d="m 11.006451,10.330194 c -0.753624,0.802718 -1.5585595,1.216263 -3.0465672,1.254738 -1.665992,0.03847 -3.3672601,-1.260216 -3.3672601,-3.496984 0,-2.252508 1.5569569,-3.4983827 3.3672601,-3.4983827 1.3602638,0 2.3223372,0.3231044 2.8862232,0.9693133 l 0.988049,-1.254845 C 10.732903,3.3132173 9.8652231,2.8414231 7.9569976,2.8414231 c -2.8188777,0 -4.9675104,2.374927 -4.9675104,5.2465249 0,2.94155 2.1871155,5.246524 4.8135785,5.246524 2.0694979,0 3.2405873,-0.711778 4.1914373,-1.782069 -0.658701,-0.814807 -0.988052,-1.222209 -0.988052,-1.222209 z"
+     id="path4"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1.67458" />
+</svg>

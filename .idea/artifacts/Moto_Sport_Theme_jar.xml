@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Moto Sport Theme:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Moto_Sport_Theme_jar</output-path>
+    <root id="archive" name="Moto Sport Theme.jar">
+      <element id="module-output" name="Moto Sport Theme" />
+      <element id="module-source" name="Moto Sport Theme" />
+    </root>
+  </artifact>
+</component>

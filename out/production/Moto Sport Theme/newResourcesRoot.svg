@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2000-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file. -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="newResourcesRoot.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="26.9375"
+     inkscape:cx="15.573086"
+     inkscape:cy="12.194896"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     id="g890">
+    <path
+       fill="#9aa7b0"
+       fill-opacity="0.8"
+       d="M 7.98462,4 6.69629,2.71143 C 6.2215852,2.2856345 5.6157462,2.0346507 4.979,2 H 1.05127 C 1.037675,1.9999973 1.024636,2.0054 1.015021,2.015007 1.0054058,2.0246179 1.0000027,2.037655 1,2.05125 V 13 H 9 V 8 h 6 V 4 Z"
+       id="path2"
+       style="fill:#00ff98;fill-opacity:0.84429067;fill-rule:evenodd" />
+    <rect
+       width="6"
+       height="1"
+       x="10"
+       y="13"
+       fill="#d9a343"
+       id="rect4"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd" />
+    <rect
+       width="6"
+       height="1"
+       x="10"
+       y="15"
+       fill="#d9a343"
+       id="rect6"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd" />
+    <rect
+       width="6"
+       height="1"
+       x="10"
+       y="11"
+       fill="#d9a343"
+       id="rect8"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd" />
+    <rect
+       width="6"
+       height="1"
+       x="10"
+       y="9"
+       fill="#d9a343"
+       id="rect10"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd" />
+  </g>
+</svg>

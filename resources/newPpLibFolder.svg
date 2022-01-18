@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2000-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file. -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="newPpLibFolder.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="53.875"
+     inkscape:cx="8.0092807"
+     inkscape:cy="8.0092807"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     fill="#9aa7b0"
+     fill-opacity="0.8"
+     d="M 15,7 H 14 V 5 H 10 V 7 H 7 v 6 H 1 V 2 H 4.9998321 C 5.6366534,2.0345799 6.2216196,2.2855944 6.69633,2.71149 L 7.98457,4 H 15 Z"
+     id="path2"
+     style="fill-rule:evenodd;fill:#00ff98;fill-opacity:0.79238755" />
+  <rect
+     width="2"
+     height="6"
+     x="14"
+     y="8"
+     fill="#40b6e0"
+     id="rect4"
+     style="fill-rule:evenodd;fill:#ffff00;fill-opacity:1" />
+  <rect
+     width="2"
+     height="8"
+     x="11"
+     y="6"
+     fill="#9aa7b0"
+     id="rect6"
+     style="fill-rule:evenodd;fill:#ffffff" />
+  <rect
+     width="2"
+     height="6"
+     x="8"
+     y="8"
+     fill="#62b543"
+     id="rect8"
+     style="fill-rule:evenodd;fill:#ff0000;fill-opacity:1" />
+</svg>
