@@ -11,4 +11,4 @@ Plugin for Android Studio and IntellijIdea platform. It is a theme based on the 
 - 2.- go to plugins intellij idea or android studio
 - 3.- install from disk find "Moto Sport Theme.jar" into out/artifacts/Moto_Sport_Theme_jar
 ### get from marketplace
-pending approval 
+https://plugins.jetbrains.com/plugin/18427-theme-moto-sport
