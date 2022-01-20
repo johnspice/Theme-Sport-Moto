@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.gabriel.lopez.motosport</id>
   <name>Theme Moto Sport</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="troyasoft1642@gmail.com" url="https://github.com/johnspice">J. Gabriel Lopez H.</vendor>
 
   <description><![CDATA[
@@ -15,15 +15,15 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      <b>1.0</b>
+      <b>1.1</b>
       <ul>
-      <li>first version for Android Studio</li>
+      <li>first version for Android Studio and intellijIdea platform</li>
       </ul><br/>
     ]]>
   </change-notes>
 
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
