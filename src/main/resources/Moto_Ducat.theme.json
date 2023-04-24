@@ -9,8 +9,6 @@
     "verdeducati": "#115031",
     "verdeducati2": "#00ff98",
     "rojoducati": "#ff0223"
-
-
   },
 
   "ui": {
@@ -84,7 +82,6 @@
 
 
   "icons": {
-
     "/actions/compile.svg": "/newCompile.svg",
     "/actions/execute.svg": "/newExecute.svg",
     "/actions/find.svg": "/newFind.svg",
@@ -99,7 +96,6 @@
     "/nodes/ppLib.svg": "/newPpLibFolder.svg",
     "/general/projectStructure.svg": "/newProjectStructure.svg",
     "/general/settings.svg": "/newSettings.svg",
-
     "/fileTypes/json.svg": "/newJson.svg",
     "/modules/resourcesRoot.svg": "/newResourcesRoot.svg",
 
@@ -107,10 +103,8 @@
       "Checkbox.Background.Default.Dark": "#5e5e5e",
       "Checkbox.Background.Disabled.Dark": "#5e5e5e",
       "Checkbox.Border.Disabled.Dark": "#5e5e5e",
-
       "Checkbox.Border.Default.Dark": "#00ff98",
       "Checkbox.Foreground.Selected.Dark": "#ff0223",
-
       "Checkbox.Focus.Thin.Default.Dark": "#ff0223",
       "Checkbox.Focus.Wide.Dark": "#ff0223"
     }
@@ -118,9 +112,11 @@
 
 
   "background": {
-    "image": "motoducat.png",
+    "image": "motoducat_trans.png",
     "transparency": 90,
     "anchor": "bottom_right",
     "fill": "plain"
   }
+
+
 }
